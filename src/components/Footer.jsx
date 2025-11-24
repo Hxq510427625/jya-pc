@@ -19,7 +19,7 @@ const Footer = () => {
           <div className="flex flex-col">
             {/* Logo */}
             <div className="mb-4">
-              <img src="/logo.png" alt="logo" className="h-16" />
+              <img src="/jya-pc/logo.png" alt="logo" className="h-16" />
             </div>
             {/* Social Media Icons */}
             <div className="flex">

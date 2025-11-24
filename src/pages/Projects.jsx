@@ -9,7 +9,7 @@ const Projects = () => {
   const cardData = [
     {
       id: 1,
-      image: '/show4.jpg',
+      image: '/jya-pc/show4.jpg',
       date: '18-08-2020',
       title: 'Gas Station Injury',
       description: 'There are of Lorem Ipsum available, but majority have su alteration in some form, by injected oir which don\'t look even slightly believable.',
@@ -17,7 +17,7 @@ const Projects = () => {
     },
     {
         id: 2,
-        image: '/show4.jpg',
+        image: '/jya-pc/show4.jpg',
         date: '18-08-2020',
         title: 'Gas Station Injury',
         description: 'There are of Lorem Ipsum available, but majority have su alteration in some form, by injected oir which don\'t look even slightly believable.',
@@ -25,7 +25,7 @@ const Projects = () => {
       },
       {
         id: 3,
-        image: '/show4.jpg',
+        image: '/jya-pc/show4.jpg',
         date: '18-08-2020',
         title: 'Gas Station Injury',
         description: 'There are of Lorem Ipsum available, but majority have su alteration in some form, by injected oir which don\'t look even slightly believable.',
@@ -33,14 +33,14 @@ const Projects = () => {
       },
       {
         id: 4,
-        image: '/show4.jpg',
+        image: '/jya-pc/show4.jpg',
         date: '18-08-2020',
         title: 'Gas Station Injury',
         description: 'There are of Lorem Ipsum available, but majority have su alteration in some form, by injected oir which don\'t look even slightly believable.',
         details: 'This project involved comprehensive safety improvements at gas station facilities. We implemented advanced monitoring systems and enhanced safety protocols to prevent workplace injuries. The project included staff training, equipment upgrades, and regular safety audits to ensure compliance with industry standards.'
       },    {
         id: 5,
-        image: '/show4.jpg',
+        image: '/jya-pc/show4.jpg',
         date: '18-08-2020',
         title: 'Gas Station Injury',
         description: 'There are of Lorem Ipsum available, but majority have su alteration in some form, by injected oir which don\'t look even slightly believable.',
@@ -48,7 +48,7 @@ const Projects = () => {
       },
       {
         id: 6,
-        image: '/show4.jpg',
+        image: '/jya-pc/show4.jpg',
         date: '18-08-2020',
         title: 'Gas Station Injury',
         description: 'There are of Lorem Ipsum available, but majority have su alteration in some form, by injected oir which don\'t look even slightly believable.',
@@ -61,7 +61,7 @@ const Projects = () => {
       {/* Banner */}
       <section className="bg-[#222021] text-white">
         <div className="relative pt-5 h-[80vh]">
-            <img src="/projectsBanner.jpg" alt="" className="w-full h-full object-cover" />
+            <img src="/jya-pc/projectsBanner.jpg" alt="" className="w-full h-full object-cover" />
             <div className='w-full absolute bottom-0 left-0 p-8 md:p-12 lg:p-16'>
                 <h1 className='text-5xl md:text-6xl lg:text-7xl font-bold text-[#FFA44A] mb-8 md:mb-8 lg:mb-8'>OUR SERVICES</h1>
                 <p className='w-2/3 text-lg md:text-xl lg:text-2xl font-light text-[#FFA44A]'>Westfill offers a variety of services to execute underground mining projects safely and efficiently.</p>

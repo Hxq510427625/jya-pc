@@ -9,22 +9,22 @@ const Home = () => {
   const accordionItems = [
     {
       title: 'YOUR SERVICE HERE',
-      image: '/show1.jpg',
+      image: '/jya-pc/show1.jpg',
       description: 'Our underground mining services encompass a full range of operations including shaft sinking, development, production mining, and rehabilitation. With decades of experience, we provide expert personnel, state-of-the-art equipment, and proven methodologies to ensure safe and productive underground mining operations. Our team specializes in various mining methods including cut-and-fill, long-hole stoping, and mechanized mining systems.'
     },
     {
       title: 'YOUR SERVICE HERE',
-      image: '/show2.jpg',
+      image: '/jya-pc/show2.jpg',
       description: 'We offer comprehensive backfill services designed to maximize mine stability while efficiently managing waste materials. Our backfill solutions include paste backfill, hydraulic backfill, and dry rock backfill systems. Our experienced team works closely with clients to develop customized backfill strategies that optimize both safety and operational efficiency, ensuring long-term mine stability and environmental compliance.'
     },
     {
       title: 'YOUR SERVICE HERE',
-      image: '/show3.jpg',
+      image: '/jya-pc/show3.jpg',
       description: 'Our project management services provide complete oversight of mining projects from initial planning through to successful completion. We combine technical expertise with proven project management methodologies to deliver projects on time and within budget. Our services include feasibility studies, engineering design, procurement, construction management, and commissioning support.'
     },
     {
       title: 'YOUR SERVICE HERE',
-      image: '/bannerRight.jpg',
+      image: '/jya-pc/bannerRight.jpg',
       description: 'We provide access to a wide range of mining equipment including loaders, trucks, drills, and specialized underground machinery. Our maintenance services ensure maximum equipment availability and performance. With certified technicians and well-equipped workshops, we offer preventive maintenance, repairs, and equipment optimization services to keep your operations running smoothly.'
     }
   ]
@@ -39,7 +39,7 @@ const Home = () => {
         <div className="">
           <div className="relative">
             <div className="w-2/3 h-[100vh] rounded-r-3xl overflow-hidden">
-              <img src="/homeBack.jpg" alt="" className="w-full h-full object-cover" />
+              <img src="/jya-pc/homeBack.jpg" alt="" className="w-full h-full object-cover" />
             </div>
             <div className="w-4/5 h-[75vh] bg-[#FFA12A70] rounded-l-3xl absolute top-1/2  -translate-y-1/2 right-0 flex justify-between items-center shadow-[0_0_30px_rgba(200,200,200,0.3)]">
               <div className="w-1/2 h-4/5 border-r-2 border-white px-20 mr-10 rounded-l-3xl">
@@ -48,7 +48,7 @@ const Home = () => {
                 <p className="text-3xl font-light font-outfit text-white w-[90%]">Underground mining professionals for full-service or bespoke contract arrangements.</p>
               </div>
               <div className="w-1/2 h-full bg-[#1A1A1A]">
-                <img src="/bannerRight.jpg" alt="" className="w-full h-full object-cover" />
+                <img src="/jya-pc/bannerRight.jpg" alt="" className="w-full h-full object-cover" />
               </div>
             </div>
           </div>
@@ -72,13 +72,13 @@ const Home = () => {
           </div>
           <div className="w-1/3 min-h-[540px] relative">
             <div className="w-[40%] aspect-square rounded-3xl absolute top-0 right-0 overflow-hidden">
-              <img src="/show1.jpg" alt="" className="w-full h-full object-cover" />
+              <img src="/jya-pc/show1.jpg" alt="" className="w-full h-full object-cover" />
             </div>
             <div className="w-2/3 aspect-square rounded-3xl absolute top-[17%] left-[10%] overflow-hidden shadow-[10px_-10px_0_#000000]">
-              <img src="/show2.jpg" alt="" className="w-full h-full object-cover" />
+              <img src="/jya-pc/show2.jpg" alt="" className="w-full h-full object-cover" />
             </div>
             <div className="w-[40%] aspect-square rounded-3xl absolute bottom-0 left-[55%] overflow-hidden">
-              <img src="/show3.jpg" alt="" className="w-full h-full object-cover" />
+              <img src="/jya-pc/show3.jpg" alt="" className="w-full h-full object-cover" />
             </div>
           </div>
         </div>
